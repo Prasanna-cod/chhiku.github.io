@@ -12,7 +12,7 @@ div img{
     box-shadow: 10px 10px 10px 0px rgb(255, 91, 91);
     cursor: pointer;
     margin: 10px;
-    transform: 400ms;
+    transform:400ms;
 }
 div img:hover{
 filter:grayscale(1);
@@ -27,3 +27,5 @@ font-family:'Times New Roman', Times, serif;
   color: rgb(255, 0, 0); 
   text-shadow: rgb(255, 248, 248);
 }
+
+
